@@ -64,6 +64,14 @@ Este projeto tem como objetivo aplicar boas práticas de **análise exploratóri
 
 ---
 
+## ℹ️ Observação Importante
+
+> Este projeto foi desenvolvido como parte da disciplina de *Análise Exploratória e Pré-processamento de Dados* do MBA em Ciência de Dados da PUC-Rio.  
+> O escopo do trabalho foi **deliberadamente limitado às etapas de EDA (Exploratory Data Analysis) e pré-processamento**, **sem incluir modelagem preditiva**, conforme diretrizes acadêmicas.  
+> A construção de modelos de machine learning será abordada em módulos posteriores do curso.
+
+---
+
 ## 📄 Licença
 
 Este projeto tem **fins acadêmicos**. Reutilização permitida mediante citação do autor.
@@ -75,4 +83,3 @@ Este projeto tem **fins acadêmicos**. Reutilização permitida mediante citaç�
 **Wallace de Lima da Silva Conceição**  
 Matrícula: 4052024002302  
 [MBA em Ciência de Dados – PUC-Rio](https://www.puc-rio.br)  
-
